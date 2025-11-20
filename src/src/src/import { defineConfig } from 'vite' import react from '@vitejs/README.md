@@ -78,4 +78,4 @@ MIT License - feel free to use this project for learning or personal use.
 
 ## Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Mubashir Pasha
